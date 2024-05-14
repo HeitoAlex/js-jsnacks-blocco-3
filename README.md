@@ -28,3 +28,19 @@ Probabilmente  conviene controllare che il numero di elementi della coda non sia
 Cartella: array_bonus
 Crea due array che hanno un numero di elementi diversi.
 Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
+
+
+
+Frutti
+creo un array con l'elenco dei frutti
+aggiungo all'array con la funzione .push() la pesca 
+utilizzo la funzione .find() 
+stampo un messaggio in console che dica se è presente o meno l'elemento richiesto
+
+Coda
+creo un prompt per chiedere all'utente quanti elementi inserire in un array
+genero tanti numeri casuali in base a quanti elementi ha chiesto l'utente 
+stampo gli ultimi 5 elementi
+imposto il limite massimo di elementi da stampare inferiore o uguale agli elementi presenti
+Coda Bonus
+chiedo all'utente quanti elementi devo stampare presenti nell'array
