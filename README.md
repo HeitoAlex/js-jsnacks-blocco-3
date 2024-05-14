@@ -34,7 +34,7 @@ Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti 
 Frutti
 creo un array con l'elenco dei frutti
 aggiungo all'array con la funzione .push() la pesca 
-utilizzo la funzione .find() 
+utilizzo il ciclo for per controllare ogni elemento dell'array e vedere se corrisponde all'elemento richiesto
 stampo un messaggio in console che dica se è presente o meno l'elemento richiesto
 
 Coda
