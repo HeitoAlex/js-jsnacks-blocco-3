@@ -2,11 +2,16 @@ const fruits = ['banana', 'mela', 'pera', 'ciliegia', 'arancia', 'mandarino', 'c
 
 fruits.push('pesca');
 
+let isFound = false;
+
 for (let i = 0; i < fruits.length; i++){
     if (fruits[i] === 'cocomero'){
-        console.log('Trovato! Devo solo preparare il cocktail.');
-        } else {
-        console.log('Oh no, devo uscire a comprare il cocomero!')
-        }
-    
+        isFound = true
+    }    
+}
+
+if (isFound){
+    console.log('Trovato! Devo solo preparare il cocktail.');
+    } else {
+    console.log('Oh no, devo uscire a comprare il cocomero!')
 }
